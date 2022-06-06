@@ -1,0 +1,15 @@
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00      1023
+           3       0.99      1.00      0.99      1007
+           4       0.90      0.99      0.94       977
+           5       1.00      1.00      1.00      1000
+           6       1.00      0.81      0.90       994
+           8       0.93      1.00      0.96       999
+
+    accuracy                           0.97      6000
+   macro avg       0.97      0.97      0.97      6000
+weighted avg       0.97      0.97      0.97      6000
+Accuracy: 0.965 (0.007) 
+ Lowest error 0.151
+ best Thresh 0.967
